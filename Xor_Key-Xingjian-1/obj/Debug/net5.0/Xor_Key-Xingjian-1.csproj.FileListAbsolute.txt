@@ -1,0 +1,14 @@
+/Users/jackbai/Projects/Xor_Key-Xingjian-1/Xor_Key-Xingjian-1/bin/Debug/net5.0/Xor_Key-Xingjian-1.deps.json
+/Users/jackbai/Projects/Xor_Key-Xingjian-1/Xor_Key-Xingjian-1/bin/Debug/net5.0/Xor_Key-Xingjian-1.runtimeconfig.json
+/Users/jackbai/Projects/Xor_Key-Xingjian-1/Xor_Key-Xingjian-1/bin/Debug/net5.0/Xor_Key-Xingjian-1.runtimeconfig.dev.json
+/Users/jackbai/Projects/Xor_Key-Xingjian-1/Xor_Key-Xingjian-1/bin/Debug/net5.0/Xor_Key-Xingjian-1.dll
+/Users/jackbai/Projects/Xor_Key-Xingjian-1/Xor_Key-Xingjian-1/bin/Debug/net5.0/ref/Xor_Key-Xingjian-1.dll
+/Users/jackbai/Projects/Xor_Key-Xingjian-1/Xor_Key-Xingjian-1/bin/Debug/net5.0/Xor_Key-Xingjian-1.pdb
+/Users/jackbai/Projects/Xor_Key-Xingjian-1/Xor_Key-Xingjian-1/obj/Debug/net5.0/Xor_Key-Xingjian-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackbai/Projects/Xor_Key-Xingjian-1/Xor_Key-Xingjian-1/obj/Debug/net5.0/Xor_Key-Xingjian-1.AssemblyInfoInputs.cache
+/Users/jackbai/Projects/Xor_Key-Xingjian-1/Xor_Key-Xingjian-1/obj/Debug/net5.0/Xor_Key-Xingjian-1.AssemblyInfo.cs
+/Users/jackbai/Projects/Xor_Key-Xingjian-1/Xor_Key-Xingjian-1/obj/Debug/net5.0/Xor_Key-Xingjian-1.csproj.CoreCompileInputs.cache
+/Users/jackbai/Projects/Xor_Key-Xingjian-1/Xor_Key-Xingjian-1/obj/Debug/net5.0/Xor_Key-Xingjian-1.dll
+/Users/jackbai/Projects/Xor_Key-Xingjian-1/Xor_Key-Xingjian-1/obj/Debug/net5.0/ref/Xor_Key-Xingjian-1.dll
+/Users/jackbai/Projects/Xor_Key-Xingjian-1/Xor_Key-Xingjian-1/obj/Debug/net5.0/Xor_Key-Xingjian-1.pdb
+/Users/jackbai/Projects/Xor_Key-Xingjian-1/Xor_Key-Xingjian-1/obj/Debug/net5.0/Xor_Key-Xingjian-1.genruntimeconfig.cache
