@@ -1,0 +1,15 @@
+/Users/jackbai/Projects/day2/MD5-crypt/MD5-crypt/obj/Debug/net5.0/MD5-crypt.csprojAssemblyReference.cache
+/Users/jackbai/Projects/day2/MD5-crypt/MD5-crypt/obj/Debug/net5.0/MD5-crypt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackbai/Projects/day2/MD5-crypt/MD5-crypt/obj/Debug/net5.0/MD5-crypt.AssemblyInfoInputs.cache
+/Users/jackbai/Projects/day2/MD5-crypt/MD5-crypt/obj/Debug/net5.0/MD5-crypt.AssemblyInfo.cs
+/Users/jackbai/Projects/day2/MD5-crypt/MD5-crypt/obj/Debug/net5.0/MD5-crypt.csproj.CoreCompileInputs.cache
+/Users/jackbai/Projects/day2/MD5-crypt/MD5-crypt/bin/Debug/net5.0/MD5-crypt.deps.json
+/Users/jackbai/Projects/day2/MD5-crypt/MD5-crypt/bin/Debug/net5.0/MD5-crypt.runtimeconfig.json
+/Users/jackbai/Projects/day2/MD5-crypt/MD5-crypt/bin/Debug/net5.0/MD5-crypt.runtimeconfig.dev.json
+/Users/jackbai/Projects/day2/MD5-crypt/MD5-crypt/bin/Debug/net5.0/MD5-crypt.dll
+/Users/jackbai/Projects/day2/MD5-crypt/MD5-crypt/bin/Debug/net5.0/ref/MD5-crypt.dll
+/Users/jackbai/Projects/day2/MD5-crypt/MD5-crypt/bin/Debug/net5.0/MD5-crypt.pdb
+/Users/jackbai/Projects/day2/MD5-crypt/MD5-crypt/obj/Debug/net5.0/MD5-crypt.dll
+/Users/jackbai/Projects/day2/MD5-crypt/MD5-crypt/obj/Debug/net5.0/ref/MD5-crypt.dll
+/Users/jackbai/Projects/day2/MD5-crypt/MD5-crypt/obj/Debug/net5.0/MD5-crypt.pdb
+/Users/jackbai/Projects/day2/MD5-crypt/MD5-crypt/obj/Debug/net5.0/MD5-crypt.genruntimeconfig.cache

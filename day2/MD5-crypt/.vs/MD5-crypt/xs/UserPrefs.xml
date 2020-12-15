@@ -1,7 +1,7 @@
 ﻿<Properties StartupConfiguration="{9C76C0F4-F299-4826-ADDF-1659F84DE415}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="MD5-crypt/Program.cs">
     <Files>
-      <File FileName="MD5-crypt/Program.cs" Line="1" Column="1" />
+      <File FileName="MD5-crypt/Program.cs" Line="116" Column="13" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,7 +15,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.MD5-crypt FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MD5-crypt PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

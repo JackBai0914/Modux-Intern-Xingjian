@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "MD5-crypt/1.0.0": {
+        "runtime": {
+          "MD5-crypt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MD5-crypt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
