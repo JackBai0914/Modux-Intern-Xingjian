@@ -1,0 +1,15 @@
+/Users/jackbai/Projects/day2/Netscreen/Netscreen/obj/Debug/net5.0/Netscreen.csprojAssemblyReference.cache
+/Users/jackbai/Projects/day2/Netscreen/Netscreen/obj/Debug/net5.0/Netscreen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackbai/Projects/day2/Netscreen/Netscreen/obj/Debug/net5.0/Netscreen.AssemblyInfoInputs.cache
+/Users/jackbai/Projects/day2/Netscreen/Netscreen/obj/Debug/net5.0/Netscreen.AssemblyInfo.cs
+/Users/jackbai/Projects/day2/Netscreen/Netscreen/obj/Debug/net5.0/Netscreen.csproj.CoreCompileInputs.cache
+/Users/jackbai/Projects/day2/Netscreen/Netscreen/bin/Debug/net5.0/Netscreen.deps.json
+/Users/jackbai/Projects/day2/Netscreen/Netscreen/bin/Debug/net5.0/Netscreen.runtimeconfig.json
+/Users/jackbai/Projects/day2/Netscreen/Netscreen/bin/Debug/net5.0/Netscreen.runtimeconfig.dev.json
+/Users/jackbai/Projects/day2/Netscreen/Netscreen/bin/Debug/net5.0/Netscreen.dll
+/Users/jackbai/Projects/day2/Netscreen/Netscreen/bin/Debug/net5.0/ref/Netscreen.dll
+/Users/jackbai/Projects/day2/Netscreen/Netscreen/bin/Debug/net5.0/Netscreen.pdb
+/Users/jackbai/Projects/day2/Netscreen/Netscreen/obj/Debug/net5.0/Netscreen.dll
+/Users/jackbai/Projects/day2/Netscreen/Netscreen/obj/Debug/net5.0/ref/Netscreen.dll
+/Users/jackbai/Projects/day2/Netscreen/Netscreen/obj/Debug/net5.0/Netscreen.pdb
+/Users/jackbai/Projects/day2/Netscreen/Netscreen/obj/Debug/net5.0/Netscreen.genruntimeconfig.cache
