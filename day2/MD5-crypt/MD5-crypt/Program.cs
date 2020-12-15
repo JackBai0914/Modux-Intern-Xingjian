@@ -102,10 +102,21 @@ namespace MD5_crypt
 
         static void Main(string[] args)
         {
-            string password = "Xingjian";
-            string salt = "Bai";
+            //$1$28772684$iEwNOgGugqO9.bIz5sk8k/
+            string salt = "28772684";
+            string target = "$1$28772684$iEwNOgGugqO9.bIz5sk8k/";
 
-            Console.WriteLine(crypt(password, salt));
+            string[] lines = System.IO.File.ReadAllLines(@"/Users/jackbai/Projects/day2/MD5-crypt/MD5-crypt/pw.txt");
+            foreach (string str in lines) {
+                string password = str;
+                string md5crypt = crypt(password, salt);
+                if (md5crypt == target)
+                {
+                    Console.WriteLine("found it!");
+                    Console.WriteLine(password);
+                }
+            }
+            //Console.WriteLine(crypt(password, salt));
         }
     }
 }
