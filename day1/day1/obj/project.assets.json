@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jackbai/Projects/Xor_Key-Xingjian-1/Xor_Key-Xingjian-1/Xor_Key-Xingjian-1.csproj",
-      "projectName": "Xor_Key-Xingjian-1",
-      "projectPath": "/Users/jackbai/Projects/Xor_Key-Xingjian-1/Xor_Key-Xingjian-1/Xor_Key-Xingjian-1.csproj",
+      "projectUniqueName": "/Users/jackbai/Projects/day1/day1/day1.csproj",
+      "projectName": "day1",
+      "projectPath": "/Users/jackbai/Projects/day1/day1/day1.csproj",
       "packagesPath": "/Users/jackbai/.nuget/packages/",
-      "outputPath": "/Users/jackbai/Projects/Xor_Key-Xingjian-1/Xor_Key-Xingjian-1/obj/",
+      "outputPath": "/Users/jackbai/Projects/day1/day1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jackbai/.config/NuGet/NuGet.Config"
