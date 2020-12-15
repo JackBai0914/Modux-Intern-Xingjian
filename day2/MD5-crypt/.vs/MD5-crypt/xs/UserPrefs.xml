@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{DF7406DB-053F-4C97-938C-207D811820F1}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="day1/Program.cs">
+﻿<Properties StartupConfiguration="{9C76C0F4-F299-4826-ADDF-1659F84DE415}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MD5-crypt/Program.cs">
     <Files>
-      <File FileName="day1/Program.cs" Line="15" Column="45" />
+      <File FileName="MD5-crypt/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="day1" expanded="True">
-            <Node name="day1" expanded="True">
+          <Node name="MD5-crypt" expanded="True">
+            <Node name="MD5-crypt" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,7 +15,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.day1 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.MD5-crypt FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
