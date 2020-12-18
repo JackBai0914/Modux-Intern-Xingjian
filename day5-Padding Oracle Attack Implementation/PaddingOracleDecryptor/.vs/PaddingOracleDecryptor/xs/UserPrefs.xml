@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{DAFC461A-6B58-4722-947E-1117456AC326}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PaddingOracleDecryptor/Program.cs">
+    <Files>
+      <File FileName="PaddingOracleDecryptor/Program.cs" Line="26" Column="29" />
+      <File FileName="PaddingOracleDecryptor/obj/Debug/net5.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs" />
+      <File FileName="PaddingOracleDecryptor/Attacker.cs" Line="14" Column="22" />
+      <File FileName="PaddingOracleDecryptor/StringFunctions.cs" Line="8" Column="26" />
+      <File FileName="PaddingOracleDecryptor/AES-Oracles.cs" Line="13" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PaddingOracleDecryptor" expanded="True">
+            <Node name="PaddingOracleDecryptor" expanded="True">
+              <Node name="PaddingOracleAttackLib" expanded="True" />
+              <Node name="PaddingOracleAttackTest" expanded="True">
+                <Node name="AssemblyInfo.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PaddingOracleDecryptor PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

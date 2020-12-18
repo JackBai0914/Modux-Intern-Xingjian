@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{E7570A53-9B98-4C74-A8F1-292C06B6B521}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Attacker.cs">
+    <Files>
+      <File FileName="Program.cs" Line="21" Column="35" />
+      <File FileName="AES-Oracles.cs" Line="9" Column="22" />
+      <File FileName="StringFunctions.cs" Line="8" Column="26" />
+      <File FileName="Attacker.cs" Line="12" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PaddingOracleDecryptor" expanded="True">
+            <Node name="PaddingOracleDecryptor" expanded="True">
+              <Node name="Attacker.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PaddingOracleDecryptor PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
